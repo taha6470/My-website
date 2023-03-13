@@ -137,6 +137,10 @@ img:hover{
 
 /* Media queries for smaller screens */
 @media screen and (max-width: 600px) {
+    iframe {
+    display: none;
+  }
+    
     #head {
         font-size: 2rem;
         border: none;

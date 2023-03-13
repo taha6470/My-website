@@ -127,7 +127,7 @@ img:hover{
     border: 3px solid rgba(0, 0, 0, 0.53);
     margin: 0px;
     text-align: center;
-    height: 100%;
+    height: 100vh;
 }
 
 /* make responsive after 1200x721px screen size */

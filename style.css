@@ -95,10 +95,12 @@ h2:hover{
 #con{
     border: 3px solid black;
 }
+.home p{
+    padding: 10px;
+}
 p{
     font-size: 130%;
     transition: 0.5s;
-    padding: 10px;
 }
 img{
     border: 5px double rgba(255, 255, 255, 0.61);

@@ -17,6 +17,9 @@
     -ms-zoom-animation: default;
     color: transparent;
 }
+h3{
+    color: orange;
+}
 body{
     font-family: 'Courier New', Courier, monospace;
     background-color: rgba(61, 61, 61, 0.429);

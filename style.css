@@ -141,6 +141,7 @@ img:hover{
         font-size: 2rem;
         border: none;
         border-bottom: 1px solid black;
+        letter-spacing: 10px;
     }
     
     nav {
